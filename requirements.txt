@@ -1,0 +1,43 @@
+# Essential build tools
+setuptools
+wheel
+
+# Core dependencies
+pandas
+numpy
+
+# Vector database
+pysqlite3-binary 
+chromadb
+sentence-transformers
+faiss-cpu
+
+# LLM and API access
+openai
+tiktoken  # For token counting with OpenAI models
+google-generativeai
+
+# Web framework and UI
+streamlit
+plotly
+
+# Data processing and utilities
+scikit-learn
+nltk
+python-dotenv
+
+# Text processing
+regex
+spacy
+
+# Visualization
+matplotlib
+seaborn
+
+# Testing and development
+pytest
+black
+
+asyncpg
+uvicorn
+supabase
